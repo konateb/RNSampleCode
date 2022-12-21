@@ -54,8 +54,8 @@ const App = () => (
       </Text>
       <View style={styles.fixToText}>
         <Button
-          title="Left button"
-          onPress={() => Alert.alert("Left button pressed")}
+          title="Bouton Gauche"
+          onPress={() => Alert.alert("Vous avez Clique sur le bouton gauche")}
         />
         <Button
           title="Right button"
